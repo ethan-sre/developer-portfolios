@@ -117,32 +117,32 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## B
 
-- [Bakare Afolabi](http://afolabibakare.netlify.app)
-- [Bankole Ahmed](http://bankoleahmed.netlify.com)
-- [Barrack Amuyunzu](https://amuyunzubarrac.club/)
-- [Baptiste Miramont](https://baptistemiramont.fr)
-- [Becca Bailey](http://Becca.is)
-- [Bekah Hawrot Weigel](http://bekahhw.github.io)
-- [Benjamin Lannon](https://lannonbr.com)
-- [Ben Rogers](https://benrogers.dev)
-- [Berat Bozkurt](https://beratbozkurt.net)
-- [Bertil Tandayamo](https://www.bertiltandayamo.me)
-- [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
-- [Bharat Bhandari](https://bharatdev.vercel.app/)
-- [Bhavani Ravi](http://bhavaniravi.com)
-- [Bhavya Tomar](https://bhavya.dev)
-- [Bhupendra Singh](https://bhupi2508.netlify.app)
-- [Bhushan Borole](https://bhushan-borole.github.io)
-- [Bipin M V](https://bipinmv.netlify.app)
-- [Bob Matyas](https://www.bobmatyas.com)
-- [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
-- [Boris Edison](https://borisedison.in)
-- [Bouwe Westerdijk](https://bouwe.io)
-- [Bowang Lan](https://bowanglan.dev)
-- [Brad Garropy](https://bradgarropy.com)
-- [Brendan Lentz](https://brendanlentz.com)
-- [Brittany Chiang](https://brittanychiang.com)
-- [Bryan Smith](https://multikitty.onrender.com)
+- ~~[Bakare Afolabi](http://afolabibakare.netlify.app)~~
+- ~~[Bankole Ahmed](http://bankoleahmed.netlify.com)~~
+- ~~[Barrack Amuyunzu](https://amuyunzubarrac.club/)~~
+- ~~[Baptiste Miramont](https://baptistemiramont.fr)~~
+- ~~[Becca Bailey](http://Becca.is)~~
+- ~~[Bekah Hawrot Weigel](http://bekahhw.github.io)~~
+- ~~[Benjamin Lannon](https://lannonbr.com)~~
+- ~~[Ben Rogers](https://benrogers.dev)~~
+- ~~[Berat Bozkurt](https://beratbozkurt.net)~~
+- ~~[Bertil Tandayamo](https://www.bertiltandayamo.me)~~
+- ~~[Bhagawat Adhikari](https://github.com/bhagawatadhikari)~~
+- ~~[Bharat Bhandari](https://bharatdev.vercel.app/)~~
+- ~~[Bhavani Ravi](http://bhavaniravi.com)~~
+- ~~[Bhavya Tomar](https://bhavya.dev)~~
+- ~~[Bhupendra Singh](https://bhupi2508.netlify.app)~~
+- ~~[Bhushan Borole](https://bhushan-borole.github.io)~~
+- ~~[Bipin M V](https://bipinmv.netlify.app)~~
+- ~~[Bob Matyas](https://www.bobmatyas.com)~~
+- ~~[Bohdan Khvorostovskyi](https://khvorostovskyi.com)~~
+- ~~[Boris Edison](https://borisedison.in)~~
+- ~~[Bouwe Westerdijk](https://bouwe.io)~~
+- ~~[Bowang Lan](https://bowanglan.dev)~~
+- ~~[Brad Garropy](https://bradgarropy.com)~~
+- ~~[Brendan Lentz](https://brendanlentz.com)~~
+- ~~[Brittany Chiang](https://brittanychiang.com)~~
+- ~~[Bryan Smith](https://multikitty.onrender.com)~~
 
 ## C
 
@@ -593,22 +593,22 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
-- [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
-- [Taranjeet Singh](https://taranjeet.co)
-- [Tejas Kumar](http://tej.as)
-- [Tejaswi Chaudhari](https://tejaswichaudhari.me)
-- [Tek Kshetri](http://tekkshetri.com.np)
-- [Tek Raj Joshi](https://t3kraj.netlify.app)
-- [Thomas David](https://thomas-david-portfolio.netlify.app)
-- [Tiago Hermano](https://tiagohermano.dev)
-- [Tiago Leite](https://www.tiagocreator.com/)
-- [Tim Jones](https://timmoth.com)
-- [Thea Choem](https://thea.juniorise.com)
-- [Thea Mushambadze](https://highflyer910.github.io)
-- [TheKaushikGoswami](https://thekaushikgoswami.github.io)
-- [Torben Korb](https://www.digital-creative.de/)
-- [Travis Fischer](https://transitivebullsh.it)
-- [Tristan Chin](https://www.chintristan.io/)
+- ~~[Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)~~
+- ~~[Taranjeet Singh](https://taranjeet.co)~~
+- ~~[Tejas Kumar](http://tej.as)~~
+- ~~[Tejaswi Chaudhari](https://tejaswichaudhari.me)~~
+- ~~[Tek Kshetri](http://tekkshetri.com.np)~~
+- ~~[Tek Raj Joshi](https://t3kraj.netlify.app)~~
+- ~~[Thomas David](https://thomas-david-portfolio.netlify.app)~~
+- ~~[Tiago Hermano](https://tiagohermano.dev)~~
+- ~~[Tiago Leite](https://www.tiagocreator.com/)~~
+- ~~[Tim Jones](https://timmoth.com)~~
+- ~~[Thea Choem](https://thea.juniorise.com)~~
+- ~~[Thea Mushambadze](https://highflyer910.github.io)~~
+- ~~[TheKaushikGoswami](https://thekaushikgoswami.github.io)~~
+- ~~[Torben Korb](https://www.digital-creative.de/)~~
+- ~~[Travis Fischer](https://transitivebullsh.it)~~
+- ~~[Tristan Chin](https://www.chintristan.io/)~~
 
 ## U
 
